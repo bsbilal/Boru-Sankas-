@@ -15,4 +15,3 @@ MSSQL - C# kullanılmıştır.
 ## Authors
 
 * **Bilal Başulaş*** - [bsBilal](https://github.com/bsBilal)
-Enes Berberoğlu - [enesowil](https://github.com/enesowil)
